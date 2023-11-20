@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Dmitry
 
-I'm Dmitry.
 
-I am open for new projects in IT
+I'm open for new projects in IT
 
 ### My Languages and Tools:
 <br>
