@@ -1,19 +1,36 @@
-### Hi there 👋 I'm Dmitry
+Привет 👋 Я Дмитрий
+=======================
+
+Разработчик нейросетей
+-----------------------
+
+Я начинающий разработчик нейросетей. В настоящее время я активно изучаю машинное обучение и глубокое обучение, стремясь углубить свои знания и навыки в этой захватывающей области. 
+
+### Образование и Курсы 
+Я прошел несколько онлайн-курсов и учебных программ по машинному обучению и глубокому обучению, включая курсы на платформе The Founder. Эти курсы помогли мне освоить основные концепции и методы, такие как регрессия, классификация, кластеризация, нейронные сети и их архитектуры. 
+
+### Реализованные Проекты 
+Несмотря на то, что я еще учусь, у меня уже есть несколько реализованных проектов, которые демонстрируют мои навыки и знания: 
+1. **Анализ тональности текста**:
+   - Создал модель для анализа тональности текстов с использованием PassiveAggressiveClassifier.
+   - Использовал набор данных отзывов для обучения модели.
+   - Реализовал предобработку текста, включая токенизацию и векторизацию.
+2. **Создание нейро-сотрудника**:
+   - Построил и обучил модель на основе русскоязычной saiga_mistral_7b.
+   - Использовал базу данных Knowledge Graph для работы модели.
+   - Значительно уменьшил вероятность возникновения галлюцинаций и добавил фильтрацию запросов.
+     
+### Навыки и Технологии 
+- **Языки программирования**: Python 
+- **Библиотеки и фреймворки**: TensorFlow, Keras, PyTorch, NumPy, Pandas, llama_index
+- **Инструменты и платформы**: VSC, Google Colab, Git
+- 
+### Цели и Стремления 
+Моя цель — стать экспертом в области нейросетей и машинного обучения, применяя свои знания для решения реальных задач и создания инновационных решений. Я стремлюсь к постоянному обучению и развитию, а также к участию в интересных проектах и коллаборациях.
+
+* 🌍  Я нахожусь в России
+* ✉️  Вы можете связаться со мной: [poznavshii@gmail.com](mailto:poznavshii@gmail.com)
+
+Я открыт для новый проектов в IT
 
 
-I'm open for new projects in IT
-
-### My Languages and Tools:
-<br>
-<div style:{display:flex}>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40">
-</div>
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">
-<div style:{display:flex}>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"> 
-</div>
