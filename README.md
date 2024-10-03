@@ -39,7 +39,7 @@
 
 * 🌍  Я нахожусь в России
 * ✉️  Вы можете связаться со мной: [poznavshii@gmail.com](mailto:poznavshii@gmail.com)
-* Телеграм: @in_novation
+* Телеграм: @in_novation [@in_novation](https://t.me/in_novation)
 
 Я открыт для новый проектов в IT
 
